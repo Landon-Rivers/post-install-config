@@ -112,3 +112,19 @@ Name new department System Administrators and click add Dept.
 System Administrators should be in the Departments section after creation.
 </p>
 <br />
+
+<p>
+<img src="https://i.imgur.com/SeUsHwC.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Click on the Teams tab and select add new team.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/BFaE2rF.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Name the new team Level II Support and click on the members tab.
+</p>
+<br />

@@ -68,7 +68,7 @@ Name the new role Supreme Admin and click the permissions tab.
 <img src="https://i.imgur.com/Z4xLk51.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Check all boxes under the Tickets section and select the Tasks.
+Check all boxes under the Tickets section and select Tasks.
 </p>
 <br />
 

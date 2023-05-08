@@ -41,17 +41,34 @@ In the Admin panel click Agents.
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/5z5ZIPN.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Select Roles.
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/RJ80sAZ.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Click add new roles.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/ZDQJRa2.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Name the new role Supreme Admin and click finish.
+</p>
+<br />
+
+
+<p>
+<img src="https://i.imgur.com/7c3H6PG.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Supreme Admin should now be in the roles section after creation.
 </p>
 <br />

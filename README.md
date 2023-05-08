@@ -60,10 +60,25 @@ Click add new roles.
 <img src="https://i.imgur.com/ZDQJRa2.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Name the new role Supreme Admin and click finish.
+Name the new role Supreme Admin and click the permissions tab.
 </p>
 <br />
 
+<p>
+<img src="https://i.imgur.com/Z4xLk51.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Check all boxes under the Tickets section and select the Tasks.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/BqGfy5m.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Check all boxes under the Tasks section and click add role.
+</p>
+<br />
 
 <p>
 <img src="https://i.imgur.com/7c3H6PG.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
@@ -78,5 +93,14 @@ Supreme Admin should now be in the roles section after creation.
 </p>
 <p>
 Select Departments and  click add new department.
+</p>
+<br />
+
+
+<p>
+<img src="https://i.imgur.com/o4OCLsx.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Name new department System Administrators.
 </p>
 <br />

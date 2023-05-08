@@ -128,3 +128,19 @@ Click on the Teams tab and select add new team.
 Name the new team Level II Support and click on the members tab.
 </p>
 <br />
+
+ <p>
+<img src="https://i.imgur.com/6FxfKD7.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Add yourself as a team member and click create team.
+</p>
+<br /> 
+                                                                                                   
+<p>
+<img src="https://i.imgur.com/gy6T7a6.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Level II support is successfully created.
+</p>
+<br />                                                                                                 

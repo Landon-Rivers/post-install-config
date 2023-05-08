@@ -72,3 +72,11 @@ Name the new role Supreme Admin and click finish.
 Supreme Admin should now be in the roles section after creation.
 </p>
 <br />
+
+<p>
+<img src="https://i.imgur.com/eREwzCq.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Select Departments and  click add new department.
+</p>
+<br />

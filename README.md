@@ -101,6 +101,14 @@ Select Departments and  click add new department.
 <img src="https://i.imgur.com/o4OCLsx.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Name new department System Administrators.
+Name new department System Administrators and click add Dept.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/UwV5Cid.png height="100%" width="100%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+System Administrators should be in the Departments section after creation.
 </p>
 <br />

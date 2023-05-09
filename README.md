@@ -180,5 +180,10 @@ The new Agent is now successfully created.
 </p>
 <br />
                                                                                                    
-![Screenshot from 2023-03-22 18-23-36](https://user-images.githubusercontent.com/129697531/236974035-e0835bf1-dca3-4df2-8088-c2e3c3752a57.png)
+<img src="https://i.imgur.com/5z5ZIPN.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+In the Agent subsection click add new agent again.
+</p>
+<br /> 
                                                                                                    

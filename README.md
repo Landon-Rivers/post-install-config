@@ -166,7 +166,7 @@ In the access tab give the new agent System Admin and Supreme Admin and select t
 </p>
 <br />
 
-<img src="https://i.imgur.com/UQtIHe83.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/QtIHe83.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 In the Teams tab add the new Agent as a level ii support and click create.

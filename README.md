@@ -173,3 +173,12 @@ In the Teams tab add the new Agent as a level ii support and click create.
 </p>
 <br />
                                                                                                     
+<img src="https://i.imgur.com/Xf7i9Vx.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+The new Agent is now successfully created.
+</p>
+<br />
+                                                                                                   
+![Screenshot from 2023-03-22 18-23-36](https://user-images.githubusercontent.com/129697531/236974035-e0835bf1-dca3-4df2-8088-c2e3c3752a57.png)
+                                                                                                   

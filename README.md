@@ -24,7 +24,6 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 - Configure Roles
 - Configure Departments
-- Allow anyone to create tickets
 - Configure Agents (workers)
 - Configure Users (customers)
 - Configure SLA
@@ -144,3 +143,33 @@ Add yourself as a team member and click create team.
 Level II support is successfully created.
 </p>
 <br />                                                                                                 
+
+                                                                                                   <p>
+<img src="https://i.imgur.com/5z5ZIPN.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+In the Agent subsection click add new agent.
+</p>
+<br /> 
+
+<img src="https://i.imgur.com/2jAJRhJ.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Fill in the information of the new agent and select the access tab.
+</p>
+<br /> 
+                                                                                                   
+<img src="https://i.imgur.com/U3bCemE.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+In the access tab give the new agent System Admin and Supreme Admin and select the Teams tab.
+</p>
+<br />
+
+<img src="https://i.imgur.com/UQtIHe83.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+In the Teams tab add the new Agent as a level ii support and click create.
+</p>
+<br />
+                                                                                                    

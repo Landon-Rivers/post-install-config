@@ -187,3 +187,25 @@ In the Agent subsection click add new agent again.
 </p>
 <br /> 
                                                                                                    
+<img src="https://i.imgur.com/7SusNMd.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Fill in the information for agent 2 and select the access tab.
+</p>
+</p>
+  
+<img src="https://i.imgur.com/CluXANO.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+In the access tab give the new agent Support, view only and Support Admin and click create.
+</p>
+</p>                                                                                                   
+<br />
+                                                                                                   
+<img src="https://i.imgur.com/OxhglpU.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+The new Agent is now successfully created.
+</p>
+</p>                                                                                                   
+<br />                                                                                                    

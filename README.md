@@ -209,3 +209,11 @@ The new Agent is now successfully created.
 </p>
 </p>                                                                                                   
 <br />                                                                                                    
+
+<img src="https://i.imgur.com/AfnUkNt.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Click the Agent panel and select the users tab. Click add user.
+</p>
+</p>                                                                                                   
+<br /> 

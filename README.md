@@ -250,7 +250,7 @@ The new user is successfully created.
 </p>                                                                                                   
 <br />  
                                                                                                    
-<img src="https://i.imgur.com/RppNRa.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/iRppNRa.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 In the Admin Panel select the manage tab. Select SLA and click add new SLA plans.

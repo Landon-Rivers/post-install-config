@@ -217,3 +217,59 @@ Click the Agent panel and select the users tab. Click add user.
 </p>
 </p>                                                                                                   
 <br /> 
+
+<img src="https://i.imgur.com/u6X48cG.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Fill in the email address and full name of the new user. Click add user
+</p>
+</p>                                                                                                   
+<br />
+                                                                                                   
+<img src="https://i.imgur.com/68ghSuh.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+The new user is successfully created.
+</p>
+</p>                                                                                                   
+<br />                                                                                                  
+
+<img src="https://i.imgur.com/1dD9IFm.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Go back to the users tab and select add user again. Fill in the email address of another user and click add user
+</p>
+</p>                                                                                                   
+<br /> 
+                                                                                                   
+<img src="https://i.imgur.com/ZyOagWg.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+The new user is successfully created.
+</p>
+</p>                                                                                                   
+<br />  
+                                                                                                   
+<img src="https://i.imgur.com/RppNRa.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+In the Admin Panel select the manage tab. Select SLA and click add new SLA plans.
+</p>
+</p>                                                                                                   
+<br /> 
+                                                                                                  
+<img src="https://i.imgur.com/uMxjG7K.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Name the new SLA Plan SEV-A, fill out the details and add plan.
+</p>
+</p>                                                                                                   
+<br />   
+                                                                                                   
+<img src="https://i.imgur.com/SnttfRk.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+SEV-A should be successfully created.
+</p>
+</p>                                                                                                   
+<br />                                                                                                    

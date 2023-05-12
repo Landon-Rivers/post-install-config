@@ -253,7 +253,7 @@ The new user is successfully created.
 <img src="https://i.imgur.com/iRppNRa.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-In the Admin Panel select the manage tab. Select SLA and click add new SLA plans.
+In the Admin Panel select the manage tab. Select SLA and click add new SLA plan.
 </p>
 </p>                                                                                                   
 <br /> 
@@ -273,3 +273,19 @@ SEV-A should be successfully created.
 </p>
 </p>                                                                                                   
 <br />                                                                                                    
+
+<img src="https://i.imgur.com/y26LB4p.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+After SEV-A has been successfully created click on add new SLA plan. Name the SLA plan SEV-B, fill in the details and add plan.
+</p>
+</p>                                                                                                   
+<br />      
+                                                                                                   
+<img src="https://i.imgur.com/97d83Eq.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+SEV-B should be successfully created.
+</p>
+</p>                                                                                                   
+<br />                                                                                                     

@@ -305,3 +305,19 @@ SEV-C should be successfully created.
 </p>
 </p>                                                                                                   
 <br />                                                                                                     
+                                                                
+<img src="https://i.imgur.com/3AafJPv.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+After SEV-C has been successfully select Hot Topics.
+</p>
+</p>                                                                                                   
+<br />
+                                                                                                   
+<img src="https://i.imgur.com/aXJ6Fb5.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Click Add New Hot Topic. Name the Hot Topic  Critical Outage, fill in the information and add topic.
+</p>
+</p>                                                                                                   
+<br />                                                                                                 

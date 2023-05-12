@@ -289,3 +289,19 @@ SEV-B should be successfully created.
 </p>
 </p>                                                                                                   
 <br />                                                                                                     
+
+<img src="https://i.imgur.com/JbMoLdD.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+After SEV-B has been successfully created click on add new SLA plan. Name the SLA plan SEV-C, fill in the details and add plan.
+</p>
+</p>                                                                                                   
+<br />                                                                                                      
+  
+<img src="https://i.imgur.com/SVGtE5o.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+SEV-C should be successfully created.
+</p>
+</p>                                                                                                   
+<br />                                                                                                     

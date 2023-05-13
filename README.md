@@ -345,3 +345,16 @@ After Equipment Requests is created select Hot Topics. Click Add New Topic. Name
 </p>
 </p>                                                                                                   
 <br />                                                                                                         
+
+This conclude the post-install configuration of the open-source help desk ticketing system osTicket .                                                                                                   
+                                                                                                   
+                                                                                                   
+                                                                                                   
+                                                                                                   
+                                                                                                   
+                                                                                                   
+                                                                                                   
+                                                                                                   
+                                                                                                   
+                                                                                                   
+                                                                   

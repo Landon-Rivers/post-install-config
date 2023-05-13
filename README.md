@@ -317,7 +317,31 @@ After SEV-C has been successfully select Hot Topics.
 <img src="https://i.imgur.com/aXJ6Fb5.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Click Add New Hot Topic. Name the Hot Topic  Critical Outage, fill in the information and add topic.
+Click Add New Hot Topic. Name the Hot Topic Business Critical Outage. Fill in the information and add topic.
 </p>
 </p>                                                                                                   
 <br />                                                                                                 
+
+<img src="https://i.imgur.com/jKInhEd.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+After Business Critical Outage is created select Hot Topics. Click Add New Topic. Name the Hot Topic Personal Computer Issues. Fill in the information and add topic
+</p>
+</p>                                                                                                   
+<br /> 
+                                                                                                   
+<img src="https://i.imgur.com/IFt07SX.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+After Personal Computer Issues is created select Hot Topics. Click Add New Topic. Name the Hot Topic Equipment Requests. Fill in the information and add topic
+</p>
+</p>                                                                                                   
+<br /> 
+                                                                                                   
+<img src="https://i.imgur.com/O6LcVQ8.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+After Equipment Requests is created select Hot Topics. Click Add New Topic. Name the Hot Topic Password Reset. Fill in the information and add topic
+</p>
+</p>                                                                                                   
+<br />                                                                                                         
